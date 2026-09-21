@@ -3,6 +3,7 @@
 
 /*
  * Hello World respectant strictement la norme ANSI C (C89 / C90).
+ * Date : 21 septembre 2026
  */
 int main(int argc, char *argv[])
 {
