@@ -1,0 +1,22 @@
+# Exécutables et binaires
+hello
+*.out
+*.exe
+
+# Fichiers objets
+*.o
+*.obj
+
+# Bibliothèques
+*.a
+*.so
+*.dylib
+
+# Fichiers système macOS
+.DS_Store
+
+# Fichiers d'éditeurs et IDE
+.vscode/
+.idea/
+*.swp
+*~
