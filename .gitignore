@@ -1,7 +1,9 @@
 # Exécutables et binaires
 hello
+test_hello
 *.out
 *.exe
+*.tmp
 
 # Fichiers objets
 *.o

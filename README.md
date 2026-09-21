@@ -19,8 +19,15 @@ Compiler et exécuter directement :
 make run
 ```
 
+## Tests unitaires
+
+Lancer la suite de tests automatisés :
+```bash
+make test
+```
+
 Nettoyer les fichiers compilés :
 ```bash
 make clean      # Supprime les fichiers objets (*.o)
-make distclean  # Supprime les fichiers objets et l'exécutable
+make distclean  # Supprime les fichiers objets et les exécutables
 ```
